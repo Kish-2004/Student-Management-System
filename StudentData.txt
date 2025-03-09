@@ -2,4 +2,4 @@
 2,EFG,6.5,villupuram
 3,HIJ,8.8,cuddalore
 4,KLM,7.6,thiruvannamalai
-5,NOP,8,9,ooty
+5,NOP,8.9,aussies
