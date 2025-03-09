@@ -15,11 +15,11 @@ Enter your choice: 4
 ----- Students by Name (Ascending) -----
 ID      Name    GPA     City    University
 ******************************************
-1       ABC     7.5     chennai MIT
-2       EFG     6.5     villupuram      MIT
-3       HIJ     8.8     cuddalore       MIT
-4       KLM     7.6     thiruvannamalai MIT
-5       NOP     8.0     9       MIT
+1       ABC     7.5     chennai          MIT
+2       EFG     6.5     villupuram       MIT
+3       HIJ     8.8     cuddalore        MIT
+4       KLM     7.6     thiruvannamalai  MIT
+5       NOP     8.0     aussies          MIT
 
 ##Add The Student Data
 
@@ -82,11 +82,11 @@ Enter your choice: 4
 ----- Students by Name (Ascending) -----
 ID      Name    GPA     City    University
 ******************************************
-1       ABC     7.5     chennai MIT
+1       ABC     7.5     chennai         MIT
 2       EFG     6.5     villupuram      MIT
 3       HIJ     8.8     cuddalore       MIT
-4       KLM     8.8     america MIT
-5       NOP     8.0     9       MIT
+4       KLM     8.8     america         MIT
+5       NOP     8.0     aussies         MIT
 
 ##Exit The program
 
